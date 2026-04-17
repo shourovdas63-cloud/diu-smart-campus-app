@@ -1,0 +1,12 @@
+section,day,time,course,room,teacher
+63_A,Sunday,8:30-10:00,CSE101,703,Mr. Rahim
+63_A,Sunday,8:30-10:00,CSE101,703,Mr. Rahim
+63_A,Monday,10:00-11:30,MAT101,504,Mrs. Sumi
+63_B,Sunday,8:30-10:00,CSE101,703,Mr. Rahim
+63_B,Monday,10:00-11:30,MAT101,504,Mrs. Sumi
+63_C,Tuesday,11:30-1:00,ENG101,302,Mr. Hasan
+63_C,Tuesday,11:30-1:00,ENG101,302,Mr. Hasan
+63_I,Sunday,8:30-10:00,CSE101,703,Mr. Rahim
+63_I,Monday,10:00-11:30,MAT101,504,Mrs. Sumi
+63_I,Tuesday,11:30-1:00,ENG101,302,Mr. Hasan
+67_C,Wednesday,1:00-2:30,CSE201,601,Md. Karim
